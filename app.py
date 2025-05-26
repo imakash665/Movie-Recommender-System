@@ -50,7 +50,7 @@ with open('similarity.pkl', 'rb') as f:
 
 # Streamlit UI
 st.title('Movie Recommender System')
-selected_movie_name = st.selectbox("How would you like to be contacted?", movies['title'].values)
+selected_movie_name = st.selectbox("Type or select a movie from the dropdown", movies['title'].values)
 
 if st.button("Recommend"):
     names, posters = recommend(selected_movie_name)
