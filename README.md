@@ -97,7 +97,7 @@ cd Movie-Recommender-System-Using-Machine-Learning
 ```
 
 ```bash
-conda create -n movie python=3.7.10 -y
+conda create -n movie python=3.13.0 -y
 ```
 
 ```bash
