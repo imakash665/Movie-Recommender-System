@@ -92,8 +92,8 @@ TMDB 5000 Movie Dataset from Kaggle
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/entbappy/Movie-Recommender-System-Using-Machine-Learning.git
-cd Movie-Recommender-System-Using-Machine-Learning
+git clone https://github.com/imakash665/Movie-Recommender-System.git
+cd Movie-Recommender-System
 ```
 
 ```bash
