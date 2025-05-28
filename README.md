@@ -79,7 +79,7 @@ TMDB 5000 Movie Dataset from Kaggle
 
 ## 🛠️ Tech Stack
 
-- Python 3.7.10
+- Python 3.13.0
 - Pandas, NumPy
 - Scikit-learn
 - Streamlit
