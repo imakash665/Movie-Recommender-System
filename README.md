@@ -74,6 +74,8 @@ TMDB 5000 Movie Dataset from Kaggle
 ## 📷 Demo Screenshots
 
 <img src="./Images/Demo1.jpg" alt="demo-1" width="70%">
+<img src="./Images/Demo2.png" alt="demo-1" width="70%">
+
 
 ---
 
